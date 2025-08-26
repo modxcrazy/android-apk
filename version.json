@@ -1,5 +1,5 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "1.7.5",
   "apkUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/app-release.apk",
   "changelog": "Bug fixes and improvements"
